@@ -15,5 +15,14 @@ accurate and effective results. This data is then recorded for a long
 duration of time and then presented in the form of graphs for a better 
 classification of the stress level of the user. The research aims to 
 provide an effective and new way of stress detection that can help 
-individuals to manage their stress levels. Keywords: CNN, Sentimental 
+individuals manage their stress levels. Keywords: CNN, Sentimental 
 Analysis, Stress, Physical Sensors, Psychological analysis, NLP 
+#Phycisal device
+![WhatsApp Image 2024-05-09 at 11 45 33 PM](https://github.com/FaizanMirza711/IOT-based-Stress-Analysis/assets/109523560/abb468a1-e871-4ce0-9c4f-07c9002a3b67)
+
+#System Architecture
+![Screenshot 2024-05-09 234438](https://github.com/FaizanMirza711/IOT-based-Stress-Analysis/assets/109523560/3e9d9bae-3882-47b7-b3bc-b7adf1d9d9db)
+
+#Block Diagram
+![Screenshot 2024-05-09 234450](https://github.com/FaizanMirza711/IOT-based-Stress-Analysis/assets/109523560/4235804d-95e5-4148-ae64-28031703f464)
+
