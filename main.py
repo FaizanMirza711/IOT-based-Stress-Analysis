@@ -1,3 +1,9 @@
+###Author Faizan Mirza ###########
+##Simulatin Of watch for Demostration Perpose###### 
+
+
+
+
 from tkinter import *
 from PIL import image,imageaTk
 root = Tk()
