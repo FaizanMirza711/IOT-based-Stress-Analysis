@@ -17,7 +17,7 @@ classification of the stress level of the user. The research aims to
 provide an effective and new way of stress detection that can help 
 individuals manage their stress levels.
 
-****The complete code isn't shared due to confidentiality concerns regarding research papers and patents.********
+****The complete code isn't shared due to confidentiality concerns regarding research papers and patents.****
 #Phycisal device
 ![WhatsApp Image 2024-05-09 at 11 45 33 PM](https://github.com/FaizanMirza711/IOT-based-Stress-Analysis/assets/109523560/abb468a1-e871-4ce0-9c4f-07c9002a3b67)
 
